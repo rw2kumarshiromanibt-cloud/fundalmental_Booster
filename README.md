@@ -4,7 +4,7 @@ A simple Python program that prints an **Inverted Right-Angled Star Pattern** us
 
 ## 📌 Description
 
-This project demonstrates the use of:
+This project demonstrates the use of.
 
 - 🔄 Nested Loops
 - ⭐ Pattern Printing
